@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386718876635",
+    "project_id": "meslekiproje-49f35",
+    "storage_bucket": "meslekiproje-49f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386718876635:android:30c0a7badca749ed9eddfe",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane_otomasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386718876635-ukpqa2mf6e5c35ka1ml2jq37svnorr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDko-1YK8_KVhy88Sfr8s_k_NMDo-5ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386718876635-ukpqa2mf6e5c35ka1ml2jq37svnorr15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
